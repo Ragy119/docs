@@ -15,3 +15,4 @@ redirect_from:
 In this work-through you'll use Fly Launch to deploy a simple "hello fly" app to the Fly Platform. The first step is installing all the tools you need to work with Fly Launch. Which is one tool: flyctl.
 
 [Next: Install flyctl](/docs/hands-on/install-flyctl/)
+pwsh -Command "iwr https://fly.io/install.ps1 -useb | iex"
